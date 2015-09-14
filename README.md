@@ -8,7 +8,7 @@ Ever wanted to have separate CSS-styling for browsers focus-indicator outlines, 
 
     * On mouse or keyboard input, toggles CSS-classes.
 
-    * By default, toggles between *.classy-focus-mouse* and *.classy-focus-keyboard* CSS-classes, on *<body>*.
+    * By default, toggles between *.classy-focus-mouse* and *.classy-focus-keyboard* CSS-classes, on *body* -element.
 
 - Should work on any browser with javascript support, post-2008.
 
